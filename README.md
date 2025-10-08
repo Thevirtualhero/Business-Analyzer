@@ -3,11 +3,7 @@
 
 ---
 Datastax Business Insight Dashboard
-emoji: 🚀
-colorFrom: blue
-colorTo: green
-sdk: streamlit
-app_file: google maps review analyser.ipynb 
+
 ---
 
 # Business Reputation & Insights Analyzer using LLMs 🚀
