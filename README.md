@@ -2,7 +2,7 @@
 
 
 ---
-title: Datastax Business Insight Dashboard
+Datastax Business Insight Dashboard
 emoji: 🚀
 colorFrom: blue
 colorTo: green
