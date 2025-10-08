@@ -72,8 +72,8 @@ div[data-testid="stVerticalBlock"]:has(h3:contains("Customer Review / Data Input
 
 
 # --- 5. API Configuration ---
-API_URL = "https://api.langflow.astra.datastax.com/lf/f507cbcc-8675-4098-a435-23fd15456e5f/api/v1/run/270d96f3-5757-4f34-a4e2-3ac7e457794b"
-AUTH_TOKEN = "AstraCS:nfklwJMgMtbRfxZXpOUuHxOM:29012f28a36978c8c4c33c9ab1f213f3cc13d8482354957540ad25ec6784c016" 
+API_URL = ""
+AUTH_TOKEN = "" 
 
 HEADERS = {
     "Content-Type": "application/json",
@@ -294,4 +294,5 @@ if 'results' in st.session_state:
     with col_r3:
         with st.container():
             st.markdown("##### 6. Competitor Comparison")
+
             st.info(results["Competitor_Rec"])
