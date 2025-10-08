@@ -31,9 +31,8 @@ The application provides a structured, 6-point analysis for every review:
     * **Operational Improvement Suggestions**.
     * **Trend-based Business Recommendations**.
     * **Competitor Comparison Highlights**.
-* **Batch Processing:** Supports uploading full datasets (CSV/Excel) for row-by-row analysis, saving all structured results to a downloadable history.
 
 ### Project Impact
 
-The platform provides a **data-driven approach to improving service quality** [cite_start]and helps businesses **adapt quickly to customer needs** , leading to increased customer satisfaction and loyalty.
+The platform provides a **data-driven approach to improving service quality** and helps businesses **adapt quickly to customer needs** , leading to increased customer satisfaction and loyalty.
 
