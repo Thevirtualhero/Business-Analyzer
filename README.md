@@ -16,28 +16,28 @@ This project is an **AI-powered platform** designed to solve the critical challe
 
 ## 🛠️ Technical Stack & Skills
 
-[cite_start]The project is built using a modern AI-driven analytics stack:
+The project is built using a modern AI-driven analytics stack:
 
 | Component | Technology / Skill | Function |
 | :--- | :--- | :--- |
-| **Backend/AI Flow** | [cite_start]**Langflow** [cite_start], **Hugging Face Models**  | [cite_start]LLM-powered summarization, Recommendation generation with prompt engineering. |
-| **Frontend/App** | [cite_start]**Streamlit**  | [cite_start]Deployment using Streamlit/Gradio. |
-| **Core Process** | [cite_start]**NLP** [cite_start], **Transformers** [cite_start], **Text Classification** . | [cite_start]Text preprocessing & cleaning, Sentiment analysis & thematic categorization. |
-| **Data Source** | **SerpAPI** (Google Maps Reviews API) . | [cite_start]API data extraction. |
+| **Backend/AI Flow** |**Langflow** , **Hugging Face Models**  | LLM-powered summarization, Recommendation generation with prompt engineering. |
+| **Frontend/App** | **Streamlit**  | Deployment using Streamlit/Gradio. |
+| **Core Process** | **NLP** , **Transformers** , **Text Classification** . | Text preprocessing & cleaning, Sentiment analysis & thematic categorization. |
+| **Data Source** | **SerpAPI** (Google Maps Reviews API) . | API data extraction. |
 
 ## ✨ Core Features & Expected Outcomes
 
-[cite_start]The application provides a structured, 6-point analysis for every review:
+The application provides a structured, 6-point analysis for every review:
 
 * **Sentiment Analysis:** Detects customer happiness, dissatisfaction, or recurring complaints.
 * **Thematic Categorization:** Identifies key themes like "slow service," "pricing," or "staff".
 * **Actionable Recommendations (Personalized):** Generates practical advice, including:
     * **Operational Improvement Suggestions**.
-    * [cite_start]**Trend-based Business Recommendations**.
-    * [cite_start]**Competitor Comparison Highlights**.
+    * **Trend-based Business Recommendations**.
+    * **Competitor Comparison Highlights**.
 * **Batch Processing:** Supports uploading full datasets (CSV/Excel) for row-by-row analysis, saving all structured results to a downloadable history.
 
 ### Project Impact
 
-[cite_start]The platform provides a **data-driven approach to improving service quality** [cite_start]and helps businesses **adapt quickly to customer needs** [cite_start], leading to increased customer satisfaction and loyalty.
+The platform provides a **data-driven approach to improving service quality** [cite_start]and helps businesses **adapt quickly to customer needs** , leading to increased customer satisfaction and loyalty.
 
